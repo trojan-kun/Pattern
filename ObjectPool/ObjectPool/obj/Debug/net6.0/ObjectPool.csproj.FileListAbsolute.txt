@@ -1,0 +1,15 @@
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.csproj.AssemblyReference.cache
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.AssemblyInfoInputs.cache
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.AssemblyInfo.cs
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.csproj.CoreCompileInputs.cache
+D:\РЭУ\патерны\ObjectPool\ObjectPool\bin\Debug\net6.0\ObjectPool.exe
+D:\РЭУ\патерны\ObjectPool\ObjectPool\bin\Debug\net6.0\ObjectPool.deps.json
+D:\РЭУ\патерны\ObjectPool\ObjectPool\bin\Debug\net6.0\ObjectPool.runtimeconfig.json
+D:\РЭУ\патерны\ObjectPool\ObjectPool\bin\Debug\net6.0\ObjectPool.dll
+D:\РЭУ\патерны\ObjectPool\ObjectPool\bin\Debug\net6.0\ObjectPool.pdb
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.dll
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\refint\ObjectPool.dll
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.pdb
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ObjectPool.genruntimeconfig.cache
+D:\РЭУ\патерны\ObjectPool\ObjectPool\obj\Debug\net6.0\ref\ObjectPool.dll

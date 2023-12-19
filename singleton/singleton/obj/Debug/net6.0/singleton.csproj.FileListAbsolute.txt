@@ -1,0 +1,15 @@
+D:\РЭУ\патерны\singleton\singleton\bin\Debug\net6.0\singleton.exe
+D:\РЭУ\патерны\singleton\singleton\bin\Debug\net6.0\singleton.deps.json
+D:\РЭУ\патерны\singleton\singleton\bin\Debug\net6.0\singleton.runtimeconfig.json
+D:\РЭУ\патерны\singleton\singleton\bin\Debug\net6.0\singleton.dll
+D:\РЭУ\патерны\singleton\singleton\bin\Debug\net6.0\singleton.pdb
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.csproj.AssemblyReference.cache
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.AssemblyInfoInputs.cache
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.AssemblyInfo.cs
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.csproj.CoreCompileInputs.cache
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.dll
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\refint\singleton.dll
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.pdb
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\singleton.genruntimeconfig.cache
+D:\РЭУ\патерны\singleton\singleton\obj\Debug\net6.0\ref\singleton.dll
